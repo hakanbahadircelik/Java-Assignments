@@ -22,6 +22,6 @@ public class _06_While {
             i++;
         }
 
-        System.out.println("The number was = " + rand);
+        System.out.println("The number was= " + rand);
     }
 }
